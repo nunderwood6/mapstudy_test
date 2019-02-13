@@ -1,0 +1,802 @@
+{
+	"pages": [
+		{
+			"page": 1,
+			"fullpage": false,
+			"sets": [
+				{
+			          "blocks": [
+						{
+							"title": "MAP 1",
+							"ask": "Distribution: chor-_C3_1"
+						},
+						{
+							"ask": "<img src='img/legends/choro.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 2,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 2",
+							"ask": "Distribution: chor-_L3_2"
+						},
+						{
+							"ask": "<img src='img/legends/choro.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 3,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 3",
+							"ask": "Distribution: chor-_T2_3"
+						},
+						{
+							"ask": "<img src='img/legends/choro.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 4,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 4",
+							"ask": "Distribution: chor-_U2_4"
+						},
+						{
+							"ask": "<img src='img/legends/choro.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 5,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 5",
+							"ask": "Distribution: dotd-_C2_2"
+						},
+						{
+							"ask": "<img src='img/legends/dot.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 6,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 6",
+							"ask": "Distribution: dotd-_L2_4"
+						},
+						{
+							"ask": "<img src='img/legends/dot.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 7,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 7",
+							"ask": "Distribution: dotd-_T1_1"
+						},
+						{
+							"ask": "<img src='img/legends/dot.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 8,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 8",
+							"ask": "Distribution: dotd-_U1_3"
+						},
+						{
+							"ask": "<img src='img/legends/dot.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 9,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 9",
+							"ask": "Distribution: heat-_C1_4"
+						},
+						{
+							"ask": "<img src='img/legends/heat.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 10,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 10",
+							"ask": "Distribution: heat-_L1_3"
+						},
+						{
+							"ask": "<img src='img/legends/heat.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 11,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 11",
+							"ask": "Distribution: heat-_T4_2"
+						},
+						{
+							"ask": "<img src='img/legends/heat.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 12,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 12",
+							"ask": "Distribution: heat-_U4_1"
+						},
+						{
+							"ask": "<img src='img/legends/heat.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 13,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 13",
+							"ask": "Distribution: prop-_C4_3"
+						},
+						{
+							"ask": "<img src='img/legends/prop.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 14,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 14",
+							"ask": "Distribution: prop-_L4_1"
+						},
+						{
+							"ask": "<img src='img/legends/prop.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 15,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 15",
+							"ask": "Distribution: prop-_T3_4"
+						},
+						{
+							"ask": "<img src='img/legends/prop.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 16,
+			"fullpage": false,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "MAP 16",
+							"ask": "Distribution: prop-_U3_2"
+						},
+						{
+							"ask": "<img src='img/legends/prop.png' style='max-width: 300px; width: 100%; height: auto;'>",
+							"image": "data/smile.png"
+						},
+						{
+							"ask": "Which city had the most tweets?",
+							"input": {
+								"required": false,
+								"autoadvance": false,
+								"type": "matrix",
+								"options": [
+										{
+											"text": "Garden City"
+										},
+										{
+											"text": "Hays"
+										},
+										{
+											"text": "Ness City"
+										}
+									],
+								"items": [
+									{
+
+									}
+								]
+							}
+						}
+					],
+					"buttons": [
+						"next"
+					]
+				}
+			]
+		},
+		{
+			"page": 17,
+			"fullpage": true,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "A text question for Page 5",
+							"ask": "This is Page 5.",
+							"description": "You should only include a submit button on the second-to-last page. That way, the user will see a final ending page. If the app is configured to e-mail data, an e-mail will be sent each time the submit button is clicked.",
+							"input": {
+								"type": "text"
+							}
+						}
+					],
+					"buttons": [
+						"back",
+						"submit"
+					]
+				}
+			]
+		},
+		{
+			"page": 18,
+			"fullpage": true,
+			"sets": [
+				{
+					"blocks": [
+						{
+							"title": "Page 6",
+							"ask": "Thank you for taking this survey. You really rock.",
+							"description": "Because this set has no buttons, the participant will not be able to navigate to a different part of the survey."
+						}
+					]
+				}
+			]
+		},
+					{
+						"page": 19,
+						"fullpage": false,
+						"sets": [
+							{
+						          "blocks": [
+									{
+										"title": "Map 0",
+										"ask": "Fabricated Data"
+									},
+									{
+										"ask": "Which city had the most tweets?",
+										"input": {
+											"required": false,
+											"autoadvance": false,
+											"type": "matrix",
+											"options": [
+													{
+														"text": "Garden City"
+													},
+													{
+														"text": "Hays"
+													},
+													{
+														"text": "Ness City"
+													}
+												],
+											"items": [
+												{
+
+												}
+											]
+										}
+									}
+								],
+								"buttons": [
+									"next"
+								]
+							}
+						]
+					}
+	]
+}
